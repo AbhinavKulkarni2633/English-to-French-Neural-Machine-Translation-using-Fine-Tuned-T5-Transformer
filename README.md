@@ -1,4 +1,4 @@
-# 🌍 English-to-French Neural Machine Translation using Fine-Tuned T5 Transformer
+# 🌍 English-to-French Neural Machine Translation Using Fine-Tuned T5 Transformer
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?logo=pytorch)
