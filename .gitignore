@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+finetuned_t5_en_fr/
+
+.ipynb_checkpoints/
+
+.vscode/
+
+.idea/
+
+.env
+
+*.pth
+*.pt
